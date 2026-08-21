@@ -1,8 +1,11 @@
 # **How To Make the Best Ever Ham and Cheese Sandwich!**
 
 
+
+
 ## *Assumptions*
 The robot is standing at a table. To the right side of the robot, on a plate, which is on the table, is 2 slices of bread, 2 slices of deli ham sandwich meat, a slice of cheese, 1 piece of lettuce and 1 slice of tomato. The robot has his eyes open so he can see everything clearly. The robot has enough room between it and the table to be able to move and use his arms and hands. The robot is roughly 5 feet, 5 inches tall and it's midsection is level with the top of the table. There is a paper towel on the table in front of the robot.
+
 
 
 ## *Steps To Take When Making The Best Ever Ham and Cheese Sandwhich*
