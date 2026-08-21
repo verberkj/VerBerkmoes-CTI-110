@@ -20,6 +20,6 @@ The robot is standing at a table. To the right side of the robot, on a plate, wh
 6. Use your hand take the last slice of bread from off the plate and place it on top of the tomato.
 
 
-YOU KNOW YOU ARE DONE WHEN THERE IS NOTHING LEFT ON THE PLATE, YOU HAVE FOLLOWED ALL THE STEPS IN HOW TO MAKE THE SANDWICH, AND THE SANDWICH IS SITTING ON THE PAPERTOWEL IN FRONT OF YOU.
+YOU KNOW YOU ARE DONE WHEN THERE IS NOTHING LEFT ON THE PLATE, YOU HAVE FOLLOWED ALL THE STEPS IN HOW TO MAKE THE SANDWICH, AND THE SANDWICH IS SITTING ON THE PAPER TOWEL IN FRONT OF YOU.
 
 :thumbsup:  :sandwich:  
